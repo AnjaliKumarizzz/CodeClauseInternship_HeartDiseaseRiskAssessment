@@ -134,8 +134,7 @@ elif navigation == "Contact Us":
     st.markdown(
         """
         We'd love to hear from you! Reach out to us for any inquiries or feedback:
-        - 📧 Email: [info@hearthealth.com](mailto:info@hearthealth.com)
-        - 📞 Phone: +123-456-7890
+        - 📧 Email: [akz.vns1821@gmail.com](mailto:akz.vns1821@gmail.com)
         """
     )
 
@@ -145,7 +144,7 @@ st.markdown(
     """
     <div style="text-align: center;">
         <h4>Developed with ❤️ by Your Team</h4>
-        <p>Contact us at <a href="mailto:info@hearthealth.com">info@hearthealth.com</a></p>
+        <p>Contact us at <a href="mailto:akz.vns1821@gmail.com">akz.vns1821@gmail.com</a></p>
     </div>
     """,
     unsafe_allow_html=True,
